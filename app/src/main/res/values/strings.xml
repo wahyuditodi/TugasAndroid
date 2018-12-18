@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Toko</string>
+    <string name="app_versi">Versi 1.0</string>
+    <string name="app_copy">Copyright © 2018 Carmium</string>
+    <string name="app_user">Username</string>
+    <string name="ap_pass">Password</string>
+    <string name="app_rgs">Register Here</string>
+    <string name="app_submit">Login</string>
+    <string name="app_trs">Transaksi</string>
+    <string name="app_stk">Stock</string>
+    <string name="app_stk_msk">Stock In</string>
+    <string name="app_lap_pjl">Sales Report</string>
+    <string name="app_abs">Attendance</string>
+    <string name="app_lgt">Logout</string>
+    <string name="app_save">Save</string>
+</resources>
